@@ -1,2 +1,2 @@
-# Cybersecurity Too Fun (CTF)
+# Cybersecurity Too Fun - CTF
  CTF writeups
